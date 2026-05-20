@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://main--aem-ue--vonbin33-bot.aem.live/sitemap.xml
